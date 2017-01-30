@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eoGradleGI_AI.iml" filepath="$PROJECT_DIR$/.idea/modules/eoGradleGI_AI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eoGradleGI_AI_ModName/eoGradleGI_AI-eoGradleGI_AI.iml" filepath="$PROJECT_DIR$/.idea/modules/eoGradleGI_AI_ModName/eoGradleGI_AI-eoGradleGI_AI.iml" group="eoGradleGI_AI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eoGradleGI_AI_ModName/eoGradleGI_AI-eoGradleGI_AI_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eoGradleGI_AI_ModName/eoGradleGI_AI-eoGradleGI_AI_main.iml" group="eoGradleGI_AI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eoGradleGI_AI_ModName/eoGradleGI_AI-eoGradleGI_AI_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eoGradleGI_AI_ModName/eoGradleGI_AI-eoGradleGI_AI_test.iml" group="eoGradleGI_AI" />
+    </modules>
+  </component>
+</project>
